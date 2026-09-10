@@ -18,18 +18,21 @@
 
 </div>
 
-🧭 Overview
+---
 
-MLForge is a hands-on Machine Learning laboratory built with Python and Jupyter Notebook. It brings together 10 fundamental machine learning techniques across regression, classification, clustering, and dimensionality reduction.
+## 🧭 Overview
+
+**MLForge** is a hands-on Machine Learning laboratory built with Python and Jupyter Notebook. It brings together **10 fundamental machine learning techniques** across regression, classification, clustering, and dimensionality reduction.
 
 The goal is simple:
 
-Learn the algorithm → implement it → visualize the result → understand the model.
+> **Learn the algorithm → implement it → visualize the result → understand the model.**
 
 The repository is designed as a practical learning and portfolio project rather than a collection of disconnected theory.
 
-🔄 MLForge Workflow
+### 🔄 MLForge Workflow
 
+```text
 ┌──────────────┐
 │    DATA      │
 └──────┬───────┘
@@ -55,185 +58,136 @@ The repository is designed as a practical learning and portfolio project rather 
 │ VISUALIZE &  │
 │   ANALYZE    │
 └──────────────┘
+```
 
-🧠 Model Portfolio
+---
+
+## 🧠 Model Portfolio
 
 <div align="center">
 
-#
-
-Model
-
-Learning Type
-
-Primary Task
-
-01
-
-📈 Linear Regression
-
-Supervised
-
-Regression
-
-02
-
-🎯 Logistic Regression
-
-Supervised
-
-Classification
-
-03
-
-🌳 Decision Tree Classifier
-
-Supervised
-
-Classification
-
-04
-
-🌲 Random Forest Classifier
-
-Supervised
-
-Classification
-
-05
-
-📐 Support Vector Machine
-
-Supervised
-
-Classification
-
-06
-
-🔵 K-Means Clustering
-
-Unsupervised
-
-Clustering
-
-07
-
-🌿 Hierarchical Clustering
-
-Unsupervised
-
-Clustering
-
-08
-
-🌀 DBSCAN
-
-Unsupervised
-
-Density-Based Clustering
-
-09
-
-🧩 Gaussian Mixture Model
-
-Unsupervised
-
-Probabilistic Clustering
-
-10
-
-📊 Principal Component Analysis
-
-Unsupervised
-
-Dimensionality Reduction
+| # | Model | Learning Type | Primary Task |
+|:---:|:---|:---:|:---|
+| 01 | 📈 **Linear Regression** | Supervised | Regression |
+| 02 | 🎯 **Logistic Regression** | Supervised | Classification |
+| 03 | 🌳 **Decision Tree Classifier** | Supervised | Classification |
+| 04 | 🌲 **Random Forest Classifier** | Supervised | Classification |
+| 05 | 📐 **Support Vector Machine** | Supervised | Classification |
+| 06 | 🔵 **K-Means Clustering** | Unsupervised | Clustering |
+| 07 | 🌿 **Hierarchical Clustering** | Unsupervised | Clustering |
+| 08 | 🌀 **DBSCAN** | Unsupervised | Density-Based Clustering |
+| 09 | 🧩 **Gaussian Mixture Model** | Unsupervised | Probabilistic Clustering |
+| 10 | 📊 **Principal Component Analysis** | Unsupervised | Dimensionality Reduction |
 
 </div>
 
-📊 Model Showcase
+---
 
-01 — Linear Regression
+# 📊 Model Showcase
 
-Predict continuous numerical outcomes by modeling the relationship between input features and a target variable.
+## 01 — Linear Regression
+
+> Predict continuous numerical outcomes by modeling the relationship between input features and a target variable.
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/MUdevelops/Machine-Learning-Forge/main/Screenshots/Linear%20Regression.png" width="92%" alt="Linear Regression result"/>
 </div>
 
-02 — Logistic Regression
+---
 
-A classification technique that estimates class probabilities and assigns observations to categorical classes.
+## 02 — Logistic Regression
+
+> A classification technique that estimates class probabilities and assigns observations to categorical classes.
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/MUdevelops/Machine-Learning-Forge/main/Screenshots/Logistic%20Regression.png" width="92%" alt="Logistic Regression result"/>
 </div>
 
-03 — Decision Tree Classifier
+---
 
-A tree-based model that makes decisions through a sequence of feature-based splits.
+## 03 — Decision Tree Classifier
+
+> A tree-based model that makes decisions through a sequence of feature-based splits.
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/MUdevelops/Machine-Learning-Forge/main/Screenshots/Decision%20Tree%20Classifier.png" width="92%" alt="Decision Tree Classifier result"/>
 </div>
 
-04 — Random Forest Classifier
+---
 
-An ensemble learning method that combines multiple decision trees to produce a more robust classifier.
+## 04 — Random Forest Classifier
+
+> An ensemble learning method that combines multiple decision trees to produce a more robust classifier.
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/MUdevelops/Machine-Learning-Forge/main/Screenshots/Random%20Forest%20Classifier.png" width="92%" alt="Random Forest Classifier result"/>
 </div>
 
-05 — Support Vector Machine
+---
 
-A powerful supervised learning approach that searches for an effective decision boundary between classes.
+## 05 — Support Vector Machine
+
+> A powerful supervised learning approach that searches for an effective decision boundary between classes.
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/MUdevelops/Machine-Learning-Forge/main/Screenshots/Support%20Vector%20Machine.png" width="92%" alt="Support Vector Machine result"/>
 </div>
 
-06 — K-Means Clustering
+---
 
-An unsupervised clustering algorithm that partitions observations into groups based on similarity.
+## 06 — K-Means Clustering
+
+> An unsupervised clustering algorithm that partitions observations into groups based on similarity.
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/MUdevelops/Machine-Learning-Forge/main/Screenshots/K-Means%20Clustering.png" width="92%" alt="K-Means Clustering result"/>
 </div>
 
-07 — Hierarchical Clustering
+---
 
-Builds a hierarchy of clusters and reveals relationships between observations through a tree-like structure.
+## 07 — Hierarchical Clustering
+
+> Builds a hierarchy of clusters and reveals relationships between observations through a tree-like structure.
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/MUdevelops/Machine-Learning-Forge/main/Screenshots/Hirearchical%20Clustering.png" width="92%" alt="Hierarchical Clustering result"/>
 </div>
 
-08 — DBSCAN
+---
 
-A density-based clustering method capable of discovering irregularly shaped clusters while identifying noise and outliers.
+## 08 — DBSCAN
+
+> A density-based clustering method capable of discovering irregularly shaped clusters while identifying noise and outliers.
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/MUdevelops/Machine-Learning-Forge/main/Screenshots/Density-Based%20Spatial%20Clustering%20of%20Applications%20with%20Noise.png" width="92%" alt="DBSCAN result"/>
 </div>
 
-09 — Gaussian Mixture Model
+---
 
-A probabilistic clustering technique that represents data as a mixture of Gaussian distributions.
+## 09 — Gaussian Mixture Model
+
+> A probabilistic clustering technique that represents data as a mixture of Gaussian distributions.
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/MUdevelops/Machine-Learning-Forge/main/Screenshots/Guassian%20Mixture%20Model.png" width="92%" alt="Gaussian Mixture Model result"/>
 </div>
 
-10 — Principal Component Analysis
+---
 
-A dimensionality-reduction technique that transforms high-dimensional data into a smaller set of informative components.
+## 10 — Principal Component Analysis
+
+> A dimensionality-reduction technique that transforms high-dimensional data into a smaller set of informative components.
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/MUdevelops/Machine-Learning-Forge/main/Screenshots/Principal%20Component%20Analysis.png" width="92%" alt="Principal Component Analysis result"/>
 </div>
 
-🧩 Learning Map
+---
 
+# 🧩 Learning Map
+
+```text
                          ┌──────────────────────┐
                          │       MLForge        │
                          └──────────┬───────────┘
@@ -253,8 +207,11 @@ A dimensionality-reduction technique that transforms high-dimensional data into 
    Regression Regression  Tree           Hierarchical
                          Random Forest   DBSCAN
                          SVM             GMM
+```
 
-🛠️ Technology Stack
+---
+
+# 🛠️ Technology Stack
 
 <div align="center">
 
@@ -262,42 +219,23 @@ A dimensionality-reduction technique that transforms high-dimensional data into 
 
 <br/><br/>
 
-Technology
-
-Purpose
-
-🐍 Python
-
-Core programming language
-
-📓 Jupyter Notebook
-
-Interactive experimentation
-
-🤖 Scikit-learn
-
-Machine Learning algorithms
-
-🔢 NumPy
-
-Numerical computing
-
-🐼 Pandas
-
-Data manipulation
-
-📊 Matplotlib
-
-Data visualization
-
-🎨 Seaborn
-
-Statistical visualization
+| Technology | Purpose |
+|:---|:---|
+| 🐍 **Python** | Core programming language |
+| 📓 **Jupyter Notebook** | Interactive experimentation |
+| 🤖 **Scikit-learn** | Machine Learning algorithms |
+| 🔢 **NumPy** | Numerical computing |
+| 🐼 **Pandas** | Data manipulation |
+| 📊 **Matplotlib** | Data visualization |
+| 🎨 **Seaborn** | Statistical visualization |
 
 </div>
 
-📁 Project Structure
+---
 
+# 📁 Project Structure
+
+```text
 Machine-Learning-Forge/
 │
 ├── 📓 Machine Learning Models.ipynb
@@ -316,58 +254,65 @@ Machine-Learning-Forge/
 │
 ├── 📄 LICENSE
 └── 📄 README.md
+```
 
-Note: The screenshot filenames above intentionally match the repository exactly, including Hirearchical and Guassian.
+> **Note:** The screenshot filenames above intentionally match the repository exactly, including `Hirearchical` and `Guassian`.
 
-🚀 Getting Started
+---
 
-1. Clone the repository
+# 🚀 Getting Started
 
+### 1. Clone the repository
+
+```bash
 git clone https://github.com/MUdevelops/Machine-Learning-Forge.git
 cd Machine-Learning-Forge
+```
 
-2. Install dependencies
+### 2. Install dependencies
 
+```bash
 pip install numpy pandas matplotlib seaborn scikit-learn jupyter
+```
 
-3. Launch Jupyter Notebook
+### 3. Launch Jupyter Notebook
 
+```bash
 jupyter notebook
+```
 
-4. Open the notebook
+### 4. Open the notebook
 
+```text
 Machine Learning Models.ipynb
+```
 
 Run the cells and experiment with the models.
 
-🎯 What This Project Demonstrates
+---
 
-✅ Practical Machine Learning implementation
+# 🎯 What This Project Demonstrates
 
-✅ Regression and classification
+- ✅ Practical Machine Learning implementation
+- ✅ Regression and classification
+- ✅ Supervised learning workflows
+- ✅ Unsupervised learning workflows
+- ✅ Clustering techniques
+- ✅ Dimensionality reduction
+- ✅ Model experimentation
+- ✅ Data visualization
+- ✅ Result interpretation
+- ✅ Python + Scikit-learn workflow
 
-✅ Supervised learning workflows
+---
 
-✅ Unsupervised learning workflows
+# 🌟 Why MLForge?
 
-✅ Clustering techniques
-
-✅ Dimensionality reduction
-
-✅ Model experimentation
-
-✅ Data visualization
-
-✅ Result interpretation
-
-✅ Python + Scikit-learn workflow
-
-🌟 Why MLForge?
-
-MLForge is built around practical learning.
+**MLForge is built around practical learning.**
 
 Instead of memorizing algorithm names, the project encourages understanding the complete ML lifecycle:
 
+```text
 Understand
     ↓
 Implement
@@ -379,44 +324,41 @@ Visualize
 Evaluate
     ↓
 Improve
+```
 
 This makes it suitable for:
 
-🎓 Students
-🤖 AI/ML beginners
-👨‍💻 Python developers
-🧪 Experimentation
-💼 Portfolio development
-📚 Academic learning
+🎓 Students  
+🤖 AI/ML beginners  
+👨‍💻 Python developers  
+🧪 Experimentation  
+💼 Portfolio development  
+📚 Academic learning  
 
-🔮 Future Roadmap
+---
 
-📊 Unified model performance dashboard
+# 🔮 Future Roadmap
 
-⚙️ Hyperparameter tuning
+- [ ] 📊 Unified model performance dashboard
+- [ ] ⚙️ Hyperparameter tuning
+- [ ] 🔁 Cross-validation
+- [ ] 📈 ROC-AUC comparison
+- [ ] 🎯 Confusion-matrix gallery
+- [ ] 🧪 More real-world datasets
+- [ ] 📉 Automated model benchmarking
+- [ ] 🖥️ Interactive Streamlit interface
+- [ ] 🤖 Automated model recommendation
+- [ ] 📦 Reusable Python ML package
 
-🔁 Cross-validation
+---
 
-📈 ROC-AUC comparison
-
-🎯 Confusion-matrix gallery
-
-🧪 More real-world datasets
-
-📉 Automated model benchmarking
-
-🖥️ Interactive Streamlit interface
-
-🤖 Automated model recommendation
-
-📦 Reusable Python ML package
-
-🧪 Experiment. Evaluate. Evolve.
+# 🧪 Experiment. Evaluate. Evolve.
 
 <div align="center">
 
-The laboratory mindset
+### The laboratory mindset
 
+```text
              DATA
               │
               ▼
@@ -443,12 +385,15 @@ The laboratory mindset
         ┌────────────┐
         │   LEARN    │
         └────────────┘
+```
 
-Don't just study Machine Learning. Build with it.
+**Don't just study Machine Learning. Build with it.**
 
 </div>
 
-👨‍💻 Author
+---
+
+# 👨‍💻 Author
 
 <div align="center">
 
@@ -462,25 +407,26 @@ Don't just study Machine Learning. Build with it.
 
 <br/><br/>
 
-BSCS Student · Software Developer · AI/ML Enthusiast
+**BSCS Student · Software Developer · AI/ML Enthusiast**
 
 </div>
 
-⭐ Support the Project
+---
+
+# ⭐ Support the Project
 
 If MLForge helped you learn or experiment with Machine Learning:
 
-⭐ Star the repository
-🍴 Fork it
-🧠 Experiment with the models
-🚀 Build something new
+**⭐ Star the repository**  
+**🍴 Fork it**  
+**🧠 Experiment with the models**  
+**🚀 Build something new**
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:06B6D4,50:2563EB,100:0F172A&section=footer&animation=twinkling" width="100%" alt="Animated footer"/>
 
-⚡ MLForge
-
-10 Models · 1 Laboratory · Endless Experiments
+### ⚡ MLForge
+**10 Models · 1 Laboratory · Endless Experiments**
 
 </div>
