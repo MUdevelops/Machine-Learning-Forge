@@ -150,7 +150,7 @@ The repository is designed as a practical learning and portfolio project rather 
 > Builds a hierarchy of clusters and reveals relationships between observations through a tree-like structure.
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/MUdevelops/Machine-Learning-Forge/main/Screenshots/Hirearchical%20Clustering.png" width="92%" alt="Hierarchical Clustering result"/>
+<img src="https://raw.githubusercontent.com/MUdevelops/Machine-Learning-Forge/main/Screenshots/Hirearchical.png" width="92%" alt="Hierarchical Clustering result"/>
 </div>
 
 ---
